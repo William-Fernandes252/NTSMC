@@ -1,0 +1,24 @@
+Results for 10 repetitions of the experiment with 100000 initial particles from the source:
+------------------------------------------------------------------------------------------
+
+				         Mean        Std. dev.
+
+Moderations:	 1.55500e+002     1.24350e+000
+
+Absorptions:	 6.06994e+004     5.73586e+001
+
+Reflections:	 6.56915e+004     1.57780e+001
+
+Escapes:		 2.83520e+003     6.56906e+000
+
+Rel. mod.:		 1.20190e-003     9.63930e-006
+
+Rel. abs.:		 4.69143e-001     2.57221e-004
+
+Rel. ref.:		 5.07742e-001     2.49031e-004
+
+Rel. esc.:		 2.19133e-002     4.87978e-005
+
+Histories:		 1.29382e+005     6.96540e+001
+
+
