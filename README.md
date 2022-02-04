@@ -14,12 +14,18 @@ Project developed during the first year of my graduation in Computer Science at 
 
 The output of the programs for a variety of initial sources of neutrons was plotted with the matplotlib and numpy packages in Python.
 
+### Bar Plot for the Cube Experiment
+
 ![Bar Plot for the Cube Experiment](/results/cube_100000_10b.png)
+
+### Pie Plot for the Cube Experiment
 
 ![Pie Plot for the Cube Experiment](/results/cube_100000_10p.png)
 
-![Sphere_Experiment](/results/sphere_cl3_100000_10.png)
+### Example of plot for the Sphere Experiment
+
+![Sphere Experiment](/results/sphere_cl3_100000_10.png)
 
 ## Report
  
-Full report avaiable [here](https://mega.nz/file/IGoAESCB).
+Full report avaiable [here](https://mega.nz/file/lbQFVazC#7V1IEGNPm3MQtl10MkXhKsci6F7RQ4fRgbD23ATORQo).
