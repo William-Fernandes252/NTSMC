@@ -12,7 +12,7 @@ Project developed during the first year of my graduation in Computer Science at 
 
 ## Results
 
-The output of the programs for a variety of initial sources of neutrons was plotted with the matplotlib and numpy packages in Python.
+The output of the programs for a variety of initial sources of neutrons was plotted with the Matplotlib and Numpy packages in Python.
 
 ### Bar Plot for the Cube Experiment
 
