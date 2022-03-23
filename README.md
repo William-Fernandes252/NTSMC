@@ -1,6 +1,6 @@
 # NTSMC
 
-Project developed during the first year of my graduation in Computer Science at UFABC. NTSMC (Neutron Transport Simulation with Monte Carlo) consists of a set of command line programs that implement the algorithm for the particle-transport simulation with the Monte Carlo Method to simulate the neutron-transport in two different systems: a sphere filled with nuclear fuel in it's center and water in the outer layers, and a cube filled with water with a source of radiotion on one of it's sides.
+Project developed during the first year of my graduation in Computer Science at UFABC. NTSMC (Neutron Transport Simulation with Monte Carlo) consists of a set of command line programs that implement the algorithm for the particle-transport, simulation with the Monte Carlo Method, to simulate the neutron-transport in two different systems: a sphere filled with nuclear fuel in it's center and water in the outer layers, and a cube filled with water with a source of radiation on one of it's sides.
 
 ## Cube
 
